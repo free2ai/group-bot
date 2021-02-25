@@ -104,6 +104,8 @@ Install the necessary Python dependencies by moving to the project directory and
 
 This will install all the necessary python packages.
 
+#ploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy) #Revived
+
   ### Database
 
 If you wish to use a database-dependent module (eg: locks, notes, userinfo, users, filters, welcomes),
